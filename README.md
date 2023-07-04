@@ -5,7 +5,7 @@
 [![Gitee](https://img.shields.io/badge/-Gitee-c14438?style=flat&logo=Gitee&logoColor=white)](https://gitee.com/ting-code)
 [![yuque](https://img.shields.io/badge/-语雀-green?style=flat&logo=yuque&logoColor=white)](https://www.yuque.com/u2368282/ting)
 
-
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=Ting-Code&show_icons=true&hide_border=true" />
-
+<p align="center">
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ting-Code&show_icons=true&theme=gotham" alt="Ting" />
+</p>
 
