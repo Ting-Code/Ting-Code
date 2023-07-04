@@ -2,8 +2,8 @@
 
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ting-Code)
-[![yuque](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=yuque&logoColor=white)](https://www.yuque.com/u2368282/ting)
-[![Gitee](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gitee&logoColor=white)](https://gitee.com/ting-code)
+[![Gitee](https://img.shields.io/badge/-Gitee-c14438?style=flat&logo=Gitee&logoColor=white)](https://gitee.com/ting-code)
+[![yuque](https://img.shields.io/badge/-语雀-blue?style=flat&logo=yuque&logoColor=white)](https://www.yuque.com/u2368282/ting)
  
 Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!  
  
