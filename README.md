@@ -6,6 +6,6 @@
 
 <p align="left">
  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Ting-Code&show_icons=true&theme=gotham" alt="Ting" />
- <img width="46.6" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ting-Code&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gotham" alt="Ting" />
+ <img width="46.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ting-Code&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gotham" alt="Ting" />
 </p>
 
