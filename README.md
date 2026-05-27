@@ -5,7 +5,7 @@
 [![yuque](https://img.shields.io/badge/-语雀\(博客\)-green?style=flat&logo=yuque&logoColor=white)](https://www.yuque.com/u2368282/ting)
 
 <p align="left">
-  <img width="48%" src="https://raw.githubusercontent.com/Ting-Code/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
-  <img width="48%" src="https://raw.githubusercontent.com/Ting-Code/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+ <img width="46.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ting-Code&hide_title=true&layout=compact&theme=gotham" alt="Ting" />
+ <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Ting-Code&show_icons=true&theme=gotham" alt="Ting" />
 </p>
 
